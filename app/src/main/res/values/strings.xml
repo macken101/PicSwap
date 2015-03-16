@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PicSwap</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_username">Username</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member yet? Sign up now.</string>
+    <string name="btn_link_to_login">Already registered! Log me in!</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="username">Username</string>
+    <string name="camera_btn_txt">Take A Picture!</string>
+    <string name="cancel_btn_txt">Cancel</string>
+
+    <string-array name="navigation_drawer_items">
+        <item>My Profile</item>
+        <item>Take Photo</item>
+        <item>Messages</item>
+    </string-array>
+
+
+
+</resources>
